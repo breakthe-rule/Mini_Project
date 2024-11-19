@@ -1,0 +1,6 @@
+,ocel:timestamp,ocel:activity,ocel:oid
+0,2023-04-03 12:08:18+00:00,"['place order', 'place order', 'place order', 'place order', 'place order', 'place order', 'place order']","['AlpenTech Innovations AG', 'Echo', 'i-880001', 'i-880002', 'i-880003', 'iPhone 11 Pro', 'o-990001']"
+1,2023-04-03 13:21:49+00:00,"['pick item', 'pick item', 'pick item']","['Leah Tacke genannt Unterberg', 'i-880003', 'iPhone 11 Pro']"
+2,2023-04-03 16:36:55+00:00,"['place order', 'place order', 'place order', 'place order', 'place order', 'place order', 'place order', 'place order']","['AlpenTech Innovations AG', 'Kindle Paperwhite', 'MacBook Pro', 'i-880004', 'i-880005', 'i-880006', 'iPad mini', 'o-990002']"
+3,2023-04-03 23:31:23+00:00,"['place order', 'place order', 'place order', 'place order', 'place order', 'place order', 'place order', 'place order', 'place order', 'place order', 'place order', 'place order', 'place order']","['Celtica Green Farms Oy', 'Fire Stick', 'Kindle Paperwhite', 'i-880007', 'i-880008', 'i-880009', 'i-880010', 'i-880011', 'i-880012', 'iPad Pro', 'iPhone 8', 'iPhone X', 'o-990003']"
+4,2023-04-04 09:50:21+00:00,"['pick item', 'pick item', 'pick item']","['Echo', 'Leah Tacke genannt Unterberg', 'i-880001']"
